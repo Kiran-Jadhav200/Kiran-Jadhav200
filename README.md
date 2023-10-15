@@ -1,6 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 # 💫 About Me:
 Hello there!👋 I'm a passionate and ambitious Computer Engineering student with a keen interest in mobile app development. As a 2-star coder on CodeChef, I've honed my skills and gained valuable experience creating innovative mobile applications for a diverse audience. With a strong foundation in programming, my academic pursuits have further fueled my enthusiasm for the mobile app development world. Currently pursuing my degree, I look forward to expanding my knowledge, contributing to exciting projects, and connecting with like-minded individuals here on GitHub! Let's collaborate and bring our mobile app ideas to life! 💻🚀
+[![An image of @kiranjadhav200's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranjadhav200)](https://holopin.io/@kiranjadhav200)
 <img align ="right" alt = "Coding" width="400" src = https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966>
 
 ## 🌐 Socials:
